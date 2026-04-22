@@ -1,0 +1,25 @@
+{
+  "name": "proyecto-inicial",
+  "version": "1.0.0",
+  "description": "Repositorio base para mi primer proyecto de trabajo",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "proyecto"
+  ],
+  "author": "ninjadiego",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ninjadiego/proyecto-inicial.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
